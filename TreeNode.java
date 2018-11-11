@@ -67,7 +67,7 @@ public class TreeNode {
         return true;
     }
     
-    // Prints tree if it is binary. Throws exception if not binary
+    // Prints tree if it is binary
     public void printBinary() {
         try {
             BinaryTreePrinter.print(this);
